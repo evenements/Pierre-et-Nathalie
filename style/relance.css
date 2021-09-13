@@ -1,0 +1,39 @@
+
+body {
+  font-family: Arial;
+  background-image: url('../image/points.jpg');
+  padding-bottom: 50px;
+}
+
+body img {
+  transform: rotate(5deg);
+  width: 100%;
+  height: auto;
+}
+
+body p {
+  margin: 15px 0;
+}
+
+body h1 {
+  color: #b56576;
+  font-size: 1.2em;
+}
+
+body a {
+  color: #b56576;
+}
+
+article {
+  background-color: white;
+  margin: 40px auto 20px auto;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow:0 10px 10px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+footer {
+  font-size: 1.1em;
+}
